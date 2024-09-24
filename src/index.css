@@ -123,11 +123,39 @@ body{
 .heart {
     color: red;
 }
-@media (max-width:418px) {
+@media (max-width:451px) {
     .title {
         font-size: 2.7rem;
     }
     .cards {
         width: 370px;
+    }
+}
+
+@media(max-width:418px) {
+    .title {
+        font-size: 2.5rem;
+    }
+
+    .title2 {
+        font-size: 2.5rem;
+    }
+
+    .cards {
+        width: 350px;
+    }
+}
+
+@media(max-width:412px) {
+    .title {
+        font-size: 2.5rem;
+    }
+
+    .title2 {
+        font-size: 2.5rem;
+    }
+
+    .cards {
+        width: 345px;
     }
 }
