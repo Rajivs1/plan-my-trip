@@ -123,7 +123,7 @@ body{
 .heart {
     color: red;
 }
-@media (max-width:452px) {
+@media (max-width:418px) {
     .title {
         font-size: 2.7rem;
     }
