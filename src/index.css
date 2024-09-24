@@ -123,3 +123,11 @@ body{
 .heart {
     color: red;
 }
+@media (max-width:452px) {
+    .title {
+        font-size: 2.7rem;
+    }
+    .cards {
+        width: 370px;
+    }
+}
